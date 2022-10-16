@@ -1,2 +1,2 @@
 # leo-templete-
-leo || templete  Htmal and Css
+leo || templete  Html and Css
